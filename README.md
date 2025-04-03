@@ -10,10 +10,6 @@
 
 <p align="left">
 
--  👨‍💻  Software Engineer working on a national project with more than two years of experience and desire for knowledge.
-
--  💼 I work developing project demands involving Integrations, LWC Components, Events, Database, Apex Classes and Unit Tests, Programmatic Sharing of Records
-
 ## 
 
 
